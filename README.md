@@ -17,14 +17,14 @@
 - 👋 Hi, I’m @SanDiego2049
 - 👀 I’m interested in full stack development, ethical hacking and web3 apps
 - 🌱 I’m a front end web developer
-- 💞️ I’m looking to collaborate on any beginner level front end project
+- 💞️ I’m looking to collaborate on any level front end project
 
 ### 🛠 Tech Stack
 - 💻 HTML | CSS
 - 🌐 Javascript | Typescript (learning soon)
-- 🛢 React.js | Nextjs (learning both soon)
+- 🛢 React.js | Nextjs (learning soon)
 - 🔧 APIs 
-- 🖥 Adobe Illustrator | Figma
+- 🖥 Adobe Illustrator 
 
 
 <!---
