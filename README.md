@@ -13,7 +13,7 @@
     </a>
     <a href = "https://www.linkedin.com/in/oreoluwa-alaba-5240b1219"><img src="https://img.icons8.com/fluent/50/000000/linkedin.png"/></a>
     <a href = "https://twitter.com/Sandiego2049"><img src="https://img.icons8.com/fluent/50/000000/twitter.png"/></a>
-    <a href = "https://www.medium.com/@alabaoreoluwa"><img src="https://img.icons8.com/fluent/50/000000/medium.png"/></a>
+    <a href = "https://www.medium.com/@alabaoreoluwa"><img src="https://img.icons8.com/fluent/50/000000/medium-logo.png"/></a>
   </div>  
 </div>
 
