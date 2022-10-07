@@ -2,7 +2,7 @@
     <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200"/>
   <div id="badges">
     <h3 align="center">Socials</h3>
-    <a href="https://www.linkedin.com/in/oreoluwa-alaba-5240b1219" target="_blank" rel="noreferrer">
+<!--     <a href="https://www.linkedin.com/in/oreoluwa-alaba-5240b1219" target="_blank" rel="noreferrer">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
     <a href="https://medium.com/@alabaoreoluwa" target="_blank" rel="noreferrer">
@@ -10,7 +10,7 @@
     </a>
     <a href="https://twitter.com/Sandiego2049" target="_blank" rel="noreferrer">
       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-    </a>
+    </a> -->
     <a href = "https://www.linkedin.com/in/oreoluwa-alaba-5240b1219"><img src="https://img.icons8.com/fluent/50/000000/linkedin.png"/></a>
     <a href = "https://twitter.com/Sandiego2049"><img src="https://img.icons8.com/fluent/50/000000/twitter.png"/></a>
     <a href = "https://www.medium.com/@alabaoreoluwa"><img src="https://img.icons8.com/fluent/50/000000/medium-logo.png"/></a>
