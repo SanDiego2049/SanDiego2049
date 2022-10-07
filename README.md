@@ -11,6 +11,9 @@
     <a href="https://twitter.com/Sandiego2049" target="_blank" rel="noreferrer">
       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </a>
+    <a href = "https://www.linkedin.com/in/oreoluwa-alaba-5240b1219"><img src="https://img.icons8.com/fluent/50/000000/linkedin.png"/></a>
+    <a href = "https://twitter.com/Sandiego2049"><img src="https://img.icons8.com/fluent/50/000000/twitter.png"/></a>
+    <a href = "https://www.medium.com/@alabaoreoluwa"><img src="https://img.icons8.com/fluent/50/000000/medium.png"/></a>
   </div>  
 </div>
 
@@ -21,7 +24,7 @@
 - 💞️ I’m hoping to collaborate on beginner friendly front end projects
 - 🧑🏽‍💻 Open to internships and part time job opportunities
 
-### 🛠 Tech Stack
+### 🛠 My Tech Stack
 <table>
   <tr>
     <td>
@@ -34,7 +37,6 @@
       <a href="https://github.com/SanDiego2049"><img alt="Sandiego's languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanDiego2049&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=1d2a3a"/></a>
     </td>
   </tr>
-    
   <tr>
     <td>
       <p align="center">
@@ -60,8 +62,7 @@
         <p align="center">CSS</p>
       </p>
     </td>
-  </tr>
-  
+  </tr> 
   <tr>
     <td>      
       <p align="center">
@@ -88,7 +89,6 @@
       </p>
     </td>
   </tr>
-
   <tr>
     <td>
       <p align="center">
@@ -114,8 +114,7 @@
         <p align="center">TypeScript(Learning Soon)</p>
       </p>
     </td>
-  </tr>
-  
+  </tr>  
   <tr>
     <td>
       <p align="center">
