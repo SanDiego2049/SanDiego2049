@@ -3,13 +3,13 @@
   <div id="badges">
     <h3 align="center">Socials</h3>
     <a href="https://www.linkedin.com/in/oreoluwa-alaba-5240b1219" target="_blank" rel="noreferrer">
-      <img src="https://img.shields.io/badge/followers/oreoluwa-alaba-5240b1219/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
     <a href="https://medium.com/@alabaoreoluwa" target="_blank" rel="noreferrer">
-      <img src="https://img.shields.io/badge/followers/@alabaoreoluwa/Medium-white?style=for-the-badge&logo=Medium&logoColor=black" alt="Medium Badge"/>
+      <img src="https://img.shields.io/badge/Medium-white?style=for-the-badge&logo=Medium&logoColor=black" alt="Medium Badge"/>
     </a>
     <a href="https://twitter.com/Sandiego2049" target="_blank" rel="noreferrer">
-      <img src="https://img.shields.io/badge/followers/Sandiego2049/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </a>
   </div>  
 </div>
