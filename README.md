@@ -100,13 +100,13 @@
     </td>
     <td>
       <p align="center">
-          <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" />
+        <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
+            <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" />
           </a>
-        <p align="center">Firebase(Learning Soon)</p>
-      </p>      
+        <p align="center">Bootstrap</p>
+      </p>
     </td>
-    <td>           
+    <td>
       <p align="center">
         <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
           <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" />
@@ -133,6 +133,15 @@
         <p align="center">NextJS(Learning Soon)</p>
       </p>
     </td>
+    <td>
+      <p align="center">
+          <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" />
+          </a>
+        <p align="center">Firebase(Learning Soon)</p>
+      </p>      
+    </td>
+    <td>     
   </tr>
 </table>
 
