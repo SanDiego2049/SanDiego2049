@@ -146,6 +146,8 @@
     <a href = "https://twitter.com/Sandiego2049"><img src="https://img.icons8.com/fluent/50/000000/twitter.png"/></a>
     <a href = "https://www.medium.com/@alabaoreoluwa"><img src="https://img.icons8.com/fluent/50/000000/medium-logo.png"/></a>
 </div>  
+
+[![@sandiego2049's Holopin board](https://holopin.me/sandiego2049)](https://holopin.io/@sandiego2049)
   
 <!---
 SanDiego2049/SanDiego2049 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
