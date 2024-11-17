@@ -129,8 +129,6 @@
   </tr>
 </table>
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=SanDiego2049&bg_color=1d2a3a&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true)
-
 <div id="badges" align="center">
     <h3>Socials</h3>
     <!--     <a href="https://www.linkedin.com/in/oreoluwa-alaba-5240b1219" target="_blank" rel="noreferrer">
