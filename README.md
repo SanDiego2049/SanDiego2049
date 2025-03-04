@@ -93,22 +93,30 @@
     </td>
     <td>
       <p align="center">
+          <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" />
+          </a>
+        <p align="center">Firebase</p>
+      </p>      
+    </td>
+  </tr>  
+  <tr>
+    <td>
+      <p align="center">
         <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
           <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" />
       </a>
         <p align="center">TypeScript(Learning Soon)</p>
       </p>
     </td>
-  </tr>  
-  <tr>
-    <td>
+<!--     <td>
       <p align="center">
         <a href="https://sass-lang.com/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" />
+          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutterflow-colored.svg" width="36" height="36" alt="Sass" />
       </a>
         <p align="center">SASS(Learning Soon)</p>
       </p>
-    </td>
+    </td> -->
     <td>            
       <p align="center">
         <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer">
@@ -116,16 +124,7 @@
       </a>
         <p align="center">NextJS(Learning Soon)</p>
       </p>
-    </td>
-    <td>
-      <p align="center">
-          <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" />
-          </a>
-        <p align="center">Firebase(Learning Soon)</p>
-      </p>      
-    </td>
-    <td>     
+    </td>    
   </tr>
 </table>
 
